@@ -1,0 +1,18 @@
+<app-header titulo="Estadíos Secundarios"></app-header>
+
+<ion-content class="ion-padding">
+
+  <h4>Estadío principal {{ ep }}</h4>
+  <ion-card class="ion-padding" *ngFor = "let estado of estadoS;" >
+      <div *ngIf="estado.imagen != '';">
+        <ion-card-header align = "center">
+          <img src = "{{estado.imagen}}"/>
+        </ion-card-header>
+      </div>
+      <div>
+        <ion-card-body>
+          <ion-card-item >{{estado.codigo}} -{{estado.codigo3}}- {{estado.descripcion}}</ion-card-item>
+        </ion-card-body>
+      </div>
+  </ion-card>
+</ion-content>

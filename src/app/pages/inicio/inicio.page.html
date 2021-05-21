@@ -1,0 +1,19 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-buttons slot="start">
+      <ion-menu-button menu="first" color="primary"></ion-menu-button>
+    </ion-buttons>
+    <ion-title>BBCH</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content class="ion-padding">
+
+  <ion-list>
+    <ion-item *ngFor="let opmenu of opcionesMenu"
+      [routerLink]="opmenu.redirectTo">
+      <ion-icon slot="start" [name]="opmenu.icon" color="primary"></ion-icon>
+      <ion-label>{{ opmenu.name }}</ion-label>
+    </ion-item>
+  </ion-list>
+</ion-content>

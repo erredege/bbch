@@ -1,0 +1,322 @@
+[
+    {
+        "redirecTo": "Algodon",
+        "nombre": "Algodon",
+        "nomCient": "Gossypium hirsutum L."
+    },
+    {
+        "redirecTo": "Arroz",
+        "nombre": "Arroz",
+        "nomCient": "Oryza sativa L."
+    },
+    {
+        "redirecTo": "Cacahuete",
+        "nombre": "Cacahuete",
+        "nomCient": "Arachis hypogaea L."
+    },
+    {
+        "redirecTo": "Cereales",
+        "nombre": "Avena",
+        "nomCient": "Avena sativa L."
+    },
+    {
+        "redirecTo": "Cereales",
+        "nombre": "Cebada",
+        "nomCient": "Hordeum vulgare L"
+    },
+    {
+        "redirecTo": "Cereales",
+        "nombre": "Trtigo",
+        "nomCient": "Triticum spec. L."
+    },
+    {
+        "redirecTo": "Cereales",
+        "nombre": "Centeno",
+        "nomCient": "Secale cereale L."
+    },
+    {
+        "redirecTo": "Citricos",
+        "nombre": "Naranjo",
+        "nomCient": "Citrus sinensis"
+    },
+    {
+        "redirecTo": "Citricos",
+        "nombre": "Mandarino",
+        "nomCient": "Citrus reticulata"
+    },
+    {
+        "redirecTo": "Citricos",
+        "nombre": "Pomelo",
+        "nomCient": ""
+    },
+    {
+        "redirecTo": "Citricos",
+        "nombre": "Limonero",
+        "nomCient": "Citrus limon"
+    },
+    {
+        "redirecTo": "Citricos",
+        "nombre": "Lima",
+        "nomCient": "Citrus aurantifolia"
+    },
+    {
+        "redirecTo": "Colza",
+        "nombre": "Colza",
+        "nomCient": "Brassica napus L. Ssp. napus"
+    },
+    {
+        "redirecTo": "Fresa",
+        "nombre": "Fresa",
+        "nomCient": "Fragaria ananassa Duch"
+    },
+    {
+        "redirecTo": "Frutales de pepita",
+        "nombre": "Manzano",
+        "nomCient": "Malus domestica BORKH."
+    },
+    {
+        "redirecTo": "Frutales de pepita",
+        "nombre": "Peral",
+        "nomCient": "Pyrus communis L."
+    },
+    {
+        "redirecTo": "Frutales hueso",
+        "nombre": "Cerezo",
+        "nomCient": "Prunus cerasus L."
+    },
+    {
+        "redirecTo": "Frutales hueso",
+        "nombre": "Ciruelo",
+        "nomCient": "Prunus domestica L. ssp. Domestica"
+    },
+    {
+        "redirecTo": "Frutales hueso",
+        "nombre": "Melocotonero",
+        "nomCient": "Prunus persica BATSCH"
+    },
+    {
+        "redirecTo": "Frutales hueso",
+        "nombre": "Albaricoquero",
+        "nomCient": "Prunus ameriaca L."
+    },
+    {
+        "redirecTo": "/girasol",
+        "nombre": "Girasol",
+        "nomCient": "Helianthus annuus L."
+    },
+    {
+        "redirecTo": "Grosellero",
+        "nombre": "Grosellero",
+        "nomCient": "Ribes nigrum L., Ribes rubrum L."
+    },
+    {
+        "redirecTo": "Guisante ",
+        "nombre": "Guisante ",
+        "nomCient": "Pisum sativum L."
+    },
+    {
+        "redirecTo": "Haba",
+        "nombre": "Haba ",
+        "nomCient": "Vicia faba L."
+    },
+    {
+        "redirecTo": "Hortalizas de plantas bulbosas",
+        "nombre": "Cebolla",
+        "nomCient": "Allium cepa L"
+    },
+    {
+        "redirecTo": "Hortalizas de plantas bulbosas",
+        "nombre": "Puerro ",
+        "nomCient": "Allium porrum L."
+    },
+    {
+        "redirecTo": "Hortalizas de plantas bulbosas",
+        "nombre": "Ajo",
+        "nomCient": "Allium sativum L."
+    },
+    {
+        "redirecTo": "Hortalizas de plantas bulbosas",
+        "nombre": "Chalota",
+        "nomCient": "Allium escalonium L."
+    },
+    {
+        "redirecTo": "Hortalizas de raíz y tubérculo",
+        "nombre": "Zanahoria",
+        "nomCient": "Daucus carota ssp. Sativus"
+    },
+    {
+        "redirecTo": "Hortalizas de raíz y tubérculo",
+        "nombre": "Escorzonera / Salsifi negro",
+        "nomCient": "Scorzonera hispanica L."
+    },
+    {
+        "redirecTo": "Hortalizas de raíz y tubérculo",
+        "nombre": "Achicoria (de Bruselas)",
+        "nomCient": "Cichorium intybus L. var. foliosum HEGI"
+    },
+    {
+        "redirecTo": "Hortalizas de raíz y tubérculo",
+        "nombre": "Rábano y Rabanillo",
+        "nomCient": "Raphanus L. spec."
+    },
+    {
+        "redirecTo": "Hortalizas de raíz y tubérculo",
+        "nombre": "Pastinaca",
+        "nomCient": "Pastinaca sativa L., Petroselinum crispum var. Tuberosum"
+    },
+    {
+        "redirecTo": "Hortalizas de raíz y tubérculo",
+        "nombre": "Nabo gallego",
+        "nomCient": "Brassica rapa L. ssp. rapa METZG."
+    },
+    {
+        "redirecTo": "Hortalizas de raíz y tubérculo",
+        "nombre": "Colinabo / Rutabaga",
+        "nomCient": "Brassica napus L. ssp. rapifera METZG."
+    },
+    {
+        "redirecTo": "Hortalizas de raíz y tubérculo",
+        "nombre": "Apio nabo",
+        "nomCient": "Apium graveolens L. var. rapaceum GAUD."
+    },
+    {
+        "redirecTo": "Hortalizas de raíz y tubérculo",
+        "nombre": "Col rápano",
+        "nomCient": "Brassica oleracea L. var. gongylodes L."
+    },
+    {
+        "redirecTo": "Judía",
+        "nombre": "Judía",
+        "nomCient": "Phaseolus vulgaris L."
+    },
+    {
+        "redirecTo": "Lupulo",
+        "nombre": "Lupulo",
+        "nomCient": "Humulus lupulus L."
+    },
+    {
+        "redirecTo": "Maíz",
+        "nombre": "Maíz",
+        "nomCient": "Zea mays L."
+    },
+    {
+        "redirecTo": "/patata",
+        "nombre": "Patata",
+        "nomCient": "Solanum tuberosum L."
+    },
+    {
+        "redirecTo": "Remolacha azucarera y forrajera",
+        "nombre": "Remolacha azucarera y forrajera",
+        "nomCient": "Beta vulgaris L. Spp. vulgaris"
+    },
+    {
+        "redirecTo": "Soja",
+        "nombre": "Soja",
+        "nomCient": "Glycine max (L)MERR"
+    },
+    {
+        "redirecTo": "Verduras que forman cabeza",
+        "nombre": "Col repollo",
+        "nomCient": "Brassica oleracea L. var. capitata L. f. alba y f. Rubra"
+    },
+    {
+        "redirecTo": "Verduras que forman cabeza",
+        "nombre": "Col de Milan",
+        "nomCient": "Brassica oleracea L. var. sabauda L."
+    },
+    {
+        "redirecTo": "Verduras que forman cabeza",
+        "nombre": "Col de China",
+        "nomCient": "Brassica chinensis L."
+    },
+    {
+        "redirecTo": "Verduras que forman cabeza",
+        "nombre": "Lechuga arrepollada",
+        "nomCient": "Lactuca sativa L. var. capitata L."
+    },
+    {
+        "redirecTo": "Verduras que forman cabeza",
+        "nombre": "Endivia / Escarola",
+        "nomCient": "Cichorium endivia L."
+    },
+    {
+        "redirecTo": "Verduras que no forman cabeza",
+        "nombre": "Lechuga de campo",
+        "nomCient": "Valerianella locusta L."
+    },
+    {
+        "redirecTo": "Verduras que no forman cabeza",
+        "nombre": "Espinaca",
+        "nomCient": "Spinacia oleracea L."
+    },
+    {
+        "redirecTo": "Verduras que no forman cabeza",
+        "nombre": "Col enana",
+        "nomCient": "Brassica oleracea L. var. sabellica L."
+    },
+    {
+        "redirecTo": "Otras Hortalizas ",
+        "nombre": "Col de Bruselas",
+        "nomCient": "Brassica oleracea L. var. gemmifera DC./ZENK"
+    },
+    {
+        "redirecTo": "Otras Hortalizas ",
+        "nombre": "Coliflor",
+        "nomCient": "Brassica oleracea L. var. Botrytis"
+    },
+    {
+        "redirecTo": "Otras Hortalizas ",
+        "nombre": "Brecól / Bróculi",
+        "nomCient": "Brassica oleracea L. var. italica PLENCK."
+    },
+    {
+        "redirecTo": "Cucurbitáceas",
+        "nombre": "Pepino",
+        "nomCient": "Cucumis sativus L."
+    },
+    {
+        "redirecTo": "Cucurbitáceas",
+        "nombre": "Melón",
+        "nomCient": "Cucumis melo L."
+    },
+    {
+        "redirecTo": "Cucurbitáceas",
+        "nombre": "Calabaza",
+        "nomCient": "Cucurbita pepo L."
+    },
+    {
+        "redirecTo": "Cucurbitáceas",
+        "nombre": "Calabacín",
+        "nomCient": "Cucurbita pepo L. var. giromontiina ALEF./GREB."
+    },
+    {
+        "redirecTo": "Cucurbitáceas",
+        "nombre": "Sandia",
+        "nomCient": "Citrullus vulgaris SCHRAD."
+    },
+    {
+        "redirecTo": "Solanáceas",
+        "nombre": "Tomate",
+        "nomCient": "Lycopersicon esculentum MILL."
+    },
+    {
+        "redirecTo": "Solanáceas",
+        "nombre": "Berenjena",
+        "nomCient": "Solanum melongena L."
+    },
+    {
+        "redirecTo": "Solanáceas",
+        "nombre": "Pimiento",
+        "nomCient": "Capsicum annuum L."
+    },
+    {
+        "redirecTo": "Vid",
+        "nombre": "Vid",
+        "nomCient": "Vitis vinífera L ssp. Vinífera"
+    },
+    {
+        "redirecTo": "Malas Hierbas",
+        "nombre": "",
+        "nomCient": ""
+    }
+]

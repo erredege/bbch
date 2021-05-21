@@ -1,0 +1,10 @@
+<app-header  titulo="Verduaras que forman Cabeza"></app-header >
+
+<ion-content class="ion-padding">
+    <h3>Lista de estados fenologicos</h3>
+    <ion-list>
+        <ion-item *ngFor="let c of estadoPrincipal" (click)="estadoSeleccionado(c)">
+            <ion-label>{{c.codigo}} - {{c.descripcion}}</ion-label>
+        </ion-item>
+    </ion-list> 
+</ion-content>

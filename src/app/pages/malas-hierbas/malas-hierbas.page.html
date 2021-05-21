@@ -1,0 +1,10 @@
+<app-header titulo="Malas Hierbas"></app-header>
+
+<ion-content class="ion-padding">
+    <h3>Lista de estados fenologicos</h3>
+    <ion-list>
+        <ion-item *ngFor="let e of estadoPrincipal;" (click)="verDetalles(e)">
+            <ion-label>{{e.codigo}} - {{e.descripcion}}</ion-label>
+        </ion-item>
+    </ion-list> 
+</ion-content>
